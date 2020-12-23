@@ -20,10 +20,9 @@ When there is an error, don't worry, it will be handled by the
 
 ## Q&A
 
-If you have questions, please feel free to ask me: 
+If you have questions, please feel 
+utilize the `Discussion` feature of GitHub. 
 
-<mongAlvarez@gmail.com>
-   
 You can also create a pull request to start the discussion or query/ies.
 
 Or, you can raise an issue. I promise I will answer your questions. 
