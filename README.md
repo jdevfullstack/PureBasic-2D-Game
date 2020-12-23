@@ -21,7 +21,7 @@ When there is an error, don't worry, it will be handled by the
 ## Q&A
 
 If you have questions, please feel 
-utilize the `Discussion` feature of GitHub. 
+utilize the `Discussions` feature of GitHub. 
 
 You can also create a pull request to start the discussion or query/ies.
 
