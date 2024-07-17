@@ -1,12 +1,8 @@
 # Mini-Racing 2D Game
 
-*`updated 22 April 2022`*
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic-2D-Game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![GUI](resources/screenshot1.png)
-
-***
 
 I'm happy to share with you my simple 2D game purely written in
 PureBasic.
@@ -21,28 +17,30 @@ Remember the screen resolution: 1024x768. This is the most common one.
 When there is an error, don't worry, it will be handled by the 
 `HandleError` in the source code. 
 
-## Q&A
+## The Good Old Days
+PureBasic was my first ever programming language, so it reminds me of the good old days. 
+Before PureBasic, I first learned Excel formulas, which really captured my interest. 
+The very first time I encountered Excel was in college,
+and it was the IF function presented by the professor that really caught my attention.
 
-If you have questions, please feel 
-utilize the `Discussions` feature of GitHub. 
+## Disclaimer
+Please note that this project is presented as a showcase of my work during a 
+specific period. It represents a snapshot of my skills and accomplishments 
+at that time. As such, this project is no longer actively maintained or updated. 
+It is kept public for demonstration purposes and may not reflect my current 
+abilities or the latest best practices in the field.
 
-You can also create a pull request to start the discussion or query/ies.
-
-Or, you can raise an issue. I promise I will answer your questions. 
+Feel free to explore the project and its code. However, be aware that it might 
+use outdated libraries or patterns and is not intended for production use in its current state.
 
 ## Compiling
-
 To compile/run, just click `Compile/Run` in the PureBasic IDE. 
 To create executable file, go to `Compiler` tab and click
 `Create Executable`. You will be asked to name your executable
 file. 
 
-## Contributing
-
-1. Fork it!
-2. Then, made changes, and create a pull request. 
-I'm much more willing to collaborate with you!
-
 ## License
-
 MIT- the permissive license
+
+## More PureBasic Projects
+check the Main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
