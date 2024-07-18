@@ -17,12 +17,6 @@ Remember the screen resolution: 1024x768. This is the most common one.
 When there is an error, don't worry, it will be handled by the 
 `HandleError` in the source code. 
 
-## The Good Old Days
-PureBasic was my first ever programming language, so it reminds me of the good old days. 
-Before PureBasic, I first learned Excel formulas, which really captured my interest. 
-The very first time I encountered Excel was in college,
-and it was the IF function presented by the professor that really caught my attention.
-
 ## Disclaimer
 Please note that this project is presented as a showcase of my work during a 
 specific period. It represents a snapshot of my skills and accomplishments 
@@ -41,6 +35,12 @@ file.
 
 ## License
 MIT- the permissive license
+
+## The Good Old Days
+PureBasic was my first ever programming language, so it reminds me of the good old days. 
+Before PureBasic, I first learned Excel formulas, which really captured my interest. 
+The very first time I encountered Excel was in college,
+and it was the IF function presented by the professor that really caught my attention.
 
 ## More PureBasic Projects
 for more PureBasic discussion and other details,
